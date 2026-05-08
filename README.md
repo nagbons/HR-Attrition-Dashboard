@@ -32,4 +32,4 @@ An interactive Power BI dashboard developed to analyze employee attrition trends
 This dashboard helps organizations identify key factors contributing to employee turnover, monitor workforce trends, improve employee retention strategies, and support data-driven HR decision-making through interactive analytics and KPI tracking.
 
 ## Dashboard Designed using Excel
-![Dashboard](
+![Dashboard](HR/Screenshot/Dashboard.png)
